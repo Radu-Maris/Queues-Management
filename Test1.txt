@@ -1,0 +1,240 @@
+Time : 0
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 1
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 2
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 3
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 4
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 5
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 6
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 7
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 8
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 9
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 10
+Waiting list:[(11,3,2), (17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 11
+Waiting list:[(17,2,1), (20,2,0), (29,3,3)]
+Queue1: (11,3,2)
+Queue2: 
+Time : 12
+Waiting list:[(17,2,1), (20,2,0), (29,3,3)]
+Queue1: (11,3,2)
+Queue2: 
+Time : 13
+Waiting list:[(17,2,1), (20,2,0), (29,3,3)]
+Queue1: (11,3,2)
+Queue2: 
+Time : 14
+Waiting list:[(17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 15
+Waiting list:[(17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 16
+Waiting list:[(17,2,1), (20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 17
+Waiting list:[(20,2,0), (29,3,3)]
+Queue1: (17,2,1)
+Queue2: 
+Time : 18
+Waiting list:[(20,2,0), (29,3,3)]
+Queue1: (17,2,1)
+Queue2: 
+Time : 19
+Waiting list:[(20,2,0), (29,3,3)]
+Queue1: 
+Queue2: 
+Time : 20
+Waiting list:[(29,3,3)]
+Queue1: (20,2,0)
+Queue2: 
+Time : 21
+Waiting list:[(29,3,3)]
+Queue1: (20,2,0)
+Queue2: 
+Time : 22
+Waiting list:[(29,3,3)]
+Queue1: 
+Queue2: 
+Time : 23
+Waiting list:[(29,3,3)]
+Queue1: 
+Queue2: 
+Time : 24
+Waiting list:[(29,3,3)]
+Queue1: 
+Queue2: 
+Time : 25
+Waiting list:[(29,3,3)]
+Queue1: 
+Queue2: 
+Time : 26
+Waiting list:[(29,3,3)]
+Queue1: 
+Queue2: 
+Time : 27
+Waiting list:[(29,3,3)]
+Queue1: 
+Queue2: 
+Time : 28
+Waiting list:[(29,3,3)]
+Queue1: 
+Queue2: 
+Time : 29
+Waiting list:[]
+Queue1: (29,3,3)
+Queue2: 
+Time : 30
+Waiting list:[]
+Queue1: (29,3,3)
+Queue2: 
+Time : 31
+Waiting list:[]
+Queue1: (29,3,3)
+Queue2: 
+Time : 32
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 33
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 34
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 35
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 36
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 37
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 38
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 39
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 40
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 41
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 42
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 43
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 44
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 45
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 46
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 47
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 48
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 49
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 50
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 51
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 52
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 53
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 54
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 55
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 56
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 57
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 58
+Waiting list:[]
+Queue1: 
+Queue2: 
+Time : 59
+Waiting list:[]
+Queue1: 
+Queue2: 
